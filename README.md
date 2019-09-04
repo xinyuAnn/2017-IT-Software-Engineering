@@ -45,14 +45,49 @@
       <td>https://github.com/biantiange/software-process-homework </td>
     </tr>
 	<tr>
-      <td>机器学习小组</td>
-      <td>高新月（组长）、孙玲、张引硕、蒋晓伟</td>
+      <td>北斗七星upup组</td>
+      <td>高新月（组长）、孙玲、张引硕、蒋晓伟、5班周义青、6班苏祺、7班徐志远</td>
       <td>https://github.com/gaoxinyue/software-process-homework</td>
     </tr>
 	<tr>
       <td>S&E组</td>
       <td>袁康（组长）、赵杰、李少涵（三班）、吴森发（三班）、许嘉伟（三班）、贾伟雯（三班）、赵若曦（三班）</td>
       <td>https://github.com/Thewhitecardan/sotfware-process-homework</td>
+    </tr>
+	<tr>
+      <td>406Javaweb与Android</td>
+      <td>董倩（队长），候柳柳，潘智晓，刘新宇，何子珍</td>
+      <td>https://github.com/dongqiandq/406Javaweb-Android</td>
+    </tr>
+	<tr>
+      <td>DMA</td>
+      <td>刘博文（队长），张依梦，马文祎，张馨元，李炳文，杨荟杰，谷小雨</td>
+      <td>https://github.com/liubowenlbw/software-process-homework</td>
+    </tr>
+	<tr>
+      <td>JavaLeader</td>
+      <td>李嘉铭（队长），郑文涛，王旭，娄政浩，刘永泰</td>
+      <td>https://github.com/PinkGhost0812/JavaLeader</td>
+    </tr>
+	<tr>
+      <td>地表最强小组</td>
+      <td>乔晓悦（队长）、李婷、刘丹青、冀珊珊、付逍遥、李继业、侯德森、张春庆</td>
+      <td>https://github.com/Qiaoxiaoyue-799/The-strongest-surface</td>
+    </tr>
+	<tr>
+      <td>正儿八经组  </td>
+      <td>冀琳（队长）、何家瑶、王月娇、王慰聪、孙丽颖</td>
+      <td>https://github.com/jilinlin/software-process-homework</td>
+    </tr>
+	<tr>
+      <td>de_dust2</td>
+      <td>张浩宇（队长），康晓慧，王明杰，刘潭，张晨旭，范天祚，李诗凡</td>
+      <td>https://github.com/zhanghaoyu2017/Software-Engineering</td>
+    </tr>
+	<tr>
+      <td>Android之星</td>
+      <td>胡晓蓉（队长），刘璇，杨晓兰，魏欣欣，马素隶，王叶颖，孙颖</td>
+      <td>https://github.com/huxiaorong/software-process-homework</td>
     </tr>
   </table>
 </div>
