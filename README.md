@@ -41,7 +41,7 @@
     </tr>
 	<tr>
       <td>Silence组</td>
-      <td>边天歌（组长）、刘哲、卢鹏娇、王天、石泽宇、赵宁</td>
+      <td>边天歌（组长）、刘哲、卢朋娇、王天、石泽宇、赵宁</td>
       <td>https://github.com/biantiange/software-process-homework </td>
     </tr>
 	<tr>
